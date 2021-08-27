@@ -24,7 +24,7 @@
             <button>Enviar</button>
         </div>
     </form>
-<?php endif ?>
+<?php ?>
 
 <?php 
     if($action == "enviar"):
@@ -34,4 +34,3 @@
         <p>Breve entraremos em contato.</p>
     </div>
 <?php
-    endif
