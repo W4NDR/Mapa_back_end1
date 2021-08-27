@@ -26,7 +26,7 @@
             <?php echo $produtos[$id]['descricao']?>
         </p>
         <a href="index.php?page=contato" class="button">
-            Fazer pedido
+            Fazer Reserva
         </a>
     </div>
 <?php

@@ -44,6 +44,8 @@
     </div>
     <footer>
         Dados acadêmicos
+        Courso: Sistemas para Internet
+        RA: 1894960-5
     </footer>
 </body>
 </html>
