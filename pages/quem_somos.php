@@ -1,5 +1,4 @@
 <div class="prod-cl">
-        <img src="images/who_im.jpg">
         <div class="legend">Wanderlei e Ingridy</div>
 </div>
 <div class="prod-cr">
