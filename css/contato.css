@@ -1,0 +1,41 @@
+.form-contact{
+    width: 100%;
+}
+
+.form-contact div{
+    text-align: center;
+}
+
+.form-contact input, textarea {
+    font-family: inherit;
+    font-size: 16px;
+    margin-top: 20px;
+    padding: 14px;
+    width: 100%;
+    border: 1px solid #DD6A00;
+    border-radius: 7px;
+    background-color: #FFF5F2;
+}
+
+.form-contact button {
+    color: #FFF;
+    background-color: #FF7143;
+    padding: 12px;
+    border: 0;
+    border-radius: 7px;
+    margin: 20px 0 20px 0;
+    font-size: 20px;
+    font-family: inherit;
+    min-width: 150px;
+    cursor: pointer;
+}
+
+.message{
+    border: 1px solid #DD6A00;
+    background-color: #FFF5F2;
+    padding: 40px;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    border-radius: 7px;
+}
