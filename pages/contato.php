@@ -7,7 +7,7 @@
     if($action == "form"):
 ?>
     <form action="?page=contato&action=enviar" method="POST" class="form-contact">
-        <div><h1>Contato e Pedidos</h1></div>
+        <div><h1>Contato e Reservas</h1></div>
         <div>
             <input type="text" placeholder="Nome" name="nome">
         </div>
