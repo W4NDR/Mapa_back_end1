@@ -12,14 +12,14 @@
     margin-top: 20px;
     padding: 14px;
     width: 100%;
-    border: 1px solid #DD6A00;
+    border: 1px solid #2900dd0a;
     border-radius: 7px;
     background-color: #FFF5F2;
 }
 
 .form-contact button {
     color: #FFF;
-    background-color: #FF7143;
+    background-color: #ff72432c;
     padding: 12px;
     border: 0;
     border-radius: 7px;
@@ -31,7 +31,7 @@
 }
 
 .message{
-    border: 1px solid #DD6A00;
+    border: 1px solid #dd6b0088;
     background-color: #FFF5F2;
     padding: 40px;
     font-size: 18px;

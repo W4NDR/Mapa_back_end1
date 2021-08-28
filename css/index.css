@@ -14,7 +14,7 @@ a:hover{
 
 header {
     height: 100px;
-    background-color: #DD6A00;
+    background-color: #3000dd60;
     text-align: center;
     padding: 10px;
 }
@@ -24,7 +24,7 @@ header {
 }
 
 nav {
-    background-color: #FFAD93;
+    background-color: #a793ff2a;
 }
 
 nav ul {
@@ -48,7 +48,7 @@ nav ul li {
 }
 
 footer{
-    background-color: #FFAD93;
+    background-color: #ffac9323;
     min-height: 60px;
     padding: 40px;
 }
