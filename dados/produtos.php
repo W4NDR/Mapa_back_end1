@@ -7,18 +7,18 @@ $produtos['Decoracoes'] = array(
     Ideal para ocasiões em que o requinte é fundamental.
     <br/><br/>
     Reservas disponiveis na agenda.',
-    'imagem' => 'decor1.jpg'
+    'imagem' => 'decor1.jpeg'
 );
 
 $produtos['Painel'] = array(
     'nome' => 'Painel',
     'descricao' => 'Festas',
-    'imagem' => 'decor2.jpg'
+    'imagem' => 'decor2.jpeg'
 );
 
 $produtos['Casamento'] = array(
     'nome' => 'Casamento',
     'descricao' => 'Festa completa para voce e sua familia.
     <br/>voce escolhe a quantidade de pessoas.',
-    'imagem' => 'decor3.jpg'
+    'imagem' => 'decor3.jpeg'
 );
