@@ -30,7 +30,9 @@
             <li>
                 <a href="index.php?page=contato">Contato</a>    
             </li>
-            <li>Localização</li>
+            <li> <a href="index.php?page=localizacao">Localizacao</a>
+
+            </li>
         </ul>
     </nav>
     <div class="content">
