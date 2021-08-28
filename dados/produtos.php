@@ -16,7 +16,7 @@ $produtos['Painel'] = array(
     'imagem' => 'decor2.jpg'
 );
 
-$produtos['Casamentos'] = array(
+$produtos['Casamento'] = array(
     'nome' => 'Casamento',
     'descricao' => 'Festa completa para voce e sua familia.
     <br/>voce escolhe a quantidade de pessoas.',
