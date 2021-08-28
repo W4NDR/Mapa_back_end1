@@ -7,7 +7,7 @@
     if($action == "form"):
 ?>
     <form action="?page=contato&action=enviar" method="POST" class="form-contact">
-        <div><h1>Contato e Reservas</h1></div>
+        <div><h1>Contato e Pedidos</h1></div>
         <div>
             <input type="text" placeholder="Nome" name="nome">
         </div>
@@ -24,13 +24,15 @@
             <button>Enviar</button>
         </div>
     </form>
-<?php ?>
+<?php endif ?>
 
 <?php 
     if($action == "enviar"):
 ?>
     <div class="message">
-        <strong>Sua mensagem foi envaida com sucesso!</strong>
+        <strong>Sua mensagem foi enviada com sucesso!</strong>
         <p>Breve entraremos em contato.</p>
     </div>
 <?php
+    endif
+?>
